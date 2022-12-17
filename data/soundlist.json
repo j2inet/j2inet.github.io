@@ -30,7 +30,9 @@
     
     {
         "name":"No Cake for you eat Pie.mp3",
-        "title":"No Cake for you eat Pie"        
+        "title":"No Cake for you eat Pie",
+        "image":"EatPie.jpg"
+
     },
     
     {
@@ -53,7 +55,12 @@
     {
         "name":"Where can you go.mp3",
         "title":"Where can you go"        
-    }
+    },
+    {
+        "name":"HornOfPlenty.mp3",
+        "title":"Horn Of Plenty",
+        "image":"HornOfPlenty.jpg"
+    }    
 
     
 ]
